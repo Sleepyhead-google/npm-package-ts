@@ -1,5 +1,7 @@
 {
   "files": [
+    "util.ts",
     "index.ts",
-  ]
+  ],
+  "outDir": "./lib"
 }
